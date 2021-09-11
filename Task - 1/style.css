@@ -352,25 +352,6 @@ hr{
      
 }
 
-.overlap {
-    transition: 0.5s ease;
-    opacity: 0;
-    position: absolute;
-    top: 40%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    text-align: center;
-  }
-
-.profile:hover .overlap {
-    opacity: 1;
-  }
-
-.profile:hover .team_con {
-    opacity: 0.3;
-  }
-
 .photo_gallery{
     background-color: rgb(219, 219, 219);
 }
